@@ -1,0 +1,12 @@
+# Jupyter and Python generated files
+**/.ipynb_checkpoints/
+**/__pycache__/
+**/.venv/
+**/venv/
+
+# Local OS files
+.DS_Store
+Thumbs.db
+
+# Local environment secrets
+**/.env
