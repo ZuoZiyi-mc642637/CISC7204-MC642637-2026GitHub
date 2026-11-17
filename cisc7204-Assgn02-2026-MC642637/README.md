@@ -1,6 +1,6 @@
 # Assignment 02 — visitor arrivals and hotel guests in Macao
 
-**CISC7204 · Zuo Ziyi (MC642637) and Wang Tingyue (MC642106) · Pair 11.**
+**CISC7204 · Zuo Ziyi (MC642637) and Member E  · Pair 11.**
 **Status:** archived coursework; revised pair-project proposal. This is separate from the six-person facilities project.
 
 ## Research question and evidence
@@ -23,7 +23,7 @@ From the repository root, install `python -m pip install -r requirements.txt`, t
 ## Limitations and contribution
 Six monthly observations cannot support forecasting or causal inference. Visitor and hotel-guest counts represent different populations and do not link individual visitors to hotels. The source notebooks and proposals should be read alongside the figures.
 
-The proposal assigns Zuo Ziyi coordination, source-file organisation, data checking and the first line chart; Wang Tingyue records analysis steps, develops correlation analysis and drafts interpretation. Both review the outputs. Assignment 02 revises the same tourism study rather than supplying an independent dataset.
+The proposal assigns Zuo Ziyi coordination, source-file organisation, data checking and the first line chart; Member E records analysis steps, develops correlation analysis and drafts interpretation. Both review the outputs. Assignment 02 revises the same tourism study rather than supplying an independent dataset.
 
 ## Learning and visual communication
 I learned to align two tables by month and distinguish absolute scale from relative change. Counts show magnitude; January=100 indices enable comparison of relative movement; scatterplots summarise association. Labels, units, the short observation period and non-causal wording are essential to interpreting the charts.
