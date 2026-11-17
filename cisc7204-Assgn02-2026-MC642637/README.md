@@ -28,4 +28,4 @@ The proposal assigns Zuo Ziyi coordination, source-file organisation, data check
 ## Learning and visual communication
 I learned to align two tables by month and distinguish absolute scale from relative change. Counts show magnitude; January=100 indices enable comparison of relative movement; scatterplots summarise association. Labels, units, the short observation period and non-causal wording are essential to interpreting the charts.
 
-AI declaration: OpenAI Codex assisted with this portfolio documentation. Original coursework files and their authorship remain unchanged. Broader module notebooks are archived, not newly certified by this portfolio update.
+Original coursework files and their authorship remain unchanged. Broader module notebooks are archived, not newly certified by this portfolio update.

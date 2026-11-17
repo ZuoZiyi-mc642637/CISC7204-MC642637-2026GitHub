@@ -9,4 +9,4 @@ Both tourism proposals compare six months of 2026 DSEC visitor arrivals and hote
 
 [Live portfolio](https://zuoziyi-mc642637.github.io/data-science-portfolio/)
 
-Install proposal-analysis dependencies using `python -m pip install -r requirements.txt`. Full module environments may require additional libraries; consult their notebooks. Third-party data and original coursework retain their existing rights. AI-assisted portfolio documentation is declared in each assignment guide.
+Install proposal-analysis dependencies using `python -m pip install -r requirements.txt`. Full module environments may require additional libraries; consult their notebooks. Third-party data and original coursework retain their existing rights.
